@@ -1821,7 +1821,7 @@ callsites@^3.0.0:
 
 camelcase-css@^2.0.1:
   version "2.0.1"
-  resolved "https://registry.npmjs.org/camelcase-css/-/camelcase-css-2.0.1.tgz#ee978f6947914cc30c6b44741b6ed1df7f043fd5"
+  resolved "https://registry.yarnpkg.com/camelcase-css/-/camelcase-css-2.0.1.tgz#ee978f6947914cc30c6b44741b6ed1df7f043fd5"
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 camelcase-keys@^6.2.2:
@@ -2108,7 +2108,7 @@ css.escape@^1.5.1:
 
 cssesc@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz#37741919903b868565e1c09ea747445cd18983ee"
+  resolved "https://registry.yarnpkg.com/cssesc/-/cssesc-3.0.0.tgz#37741919903b868565e1c09ea747445cd18983ee"
   integrity sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==
 
 cssom@^0.5.0:
@@ -2164,9 +2164,9 @@ culori@^3:
   integrity sha512-pHJg+jbuFsCjz9iclQBqyL3B2HLCBF71BwVNujUYEvCeQMvV97R59MNK3R2+jgJ3a1fcZgI9B3vYgz8lzr/BFQ==
 
 daisyui@^4.10.5:
-  version "4.11.1"
-  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-4.11.1.tgz#9216de97107bffe2b7c6e4dfa28dbe7147e89e9d"
-  integrity sha512-obT9CUbQdW6eoHwSeT5VwaRrWlwrM4OT5qlfdJ0oQlSIEYhwnEl2+L2fwu5PioLbitwuMdYC2X8I1cyy8Pf6LQ==
+  version "4.12.10"
+  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-4.12.10.tgz#fc26b6da72c5855f4677d2f100f02e06c8e8a70f"
+  integrity sha512-jp1RAuzbHhGdXmn957Z2XsTZStXGHzFfF0FgIOZj3Wv9sH7OZgLfXTRZNfKVYxltGUOBsG1kbWAdF5SrqjebvA==
   dependencies:
     css-selector-tokenizer "^0.8"
     culori "^3"
@@ -2571,7 +2571,7 @@ fast-levenshtein@~2.0.6:
 
 fastparse@^1.1.2:
   version "1.1.2"
-  resolved "https://registry.npmjs.org/fastparse/-/fastparse-1.1.2.tgz#91728c5a5942eced8531283c79441ee4122c35a9"
+  resolved "https://registry.yarnpkg.com/fastparse/-/fastparse-1.1.2.tgz#91728c5a5942eced8531283c79441ee4122c35a9"
   integrity sha512-483XLLxTVIwWK3QTrMGRqUfUpoOs/0hbQrl2oz4J0pAcm3A3bu84wxTFqGqkJzewCLdME38xJLJAxBABfQT8sQ==
 
 fastq@^1.6.0:
